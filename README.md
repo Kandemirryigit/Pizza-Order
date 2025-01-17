@@ -7,3 +7,6 @@
 ![Ekran görüntüsü 2025-01-17 113946](https://github.com/user-attachments/assets/ccf5036d-2e70-4457-857c-b078250751c3)
 
 Final project looks like this.
+
+![Ekran görüntüsü 2025-01-17 114335](https://github.com/user-attachments/assets/0f523230-3083-427d-be0f-dd41b6fc315e)
+I used """.....""" quatation marks because my art.py file is a python file and if I dont wanna see an eror ı gotta use quatation marks like this and ı can add what ı want inside quatation marks.this is a method to create comment lines.
