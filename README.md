@@ -6,7 +6,7 @@
 ![Ekran görüntüsü 2025-01-17 113940](https://github.com/user-attachments/assets/df107f75-3ebb-4ecd-a80d-841f1a20d421)
 ![Ekran görüntüsü 2025-01-17 113946](https://github.com/user-attachments/assets/ccf5036d-2e70-4457-857c-b078250751c3)
 
-Final project looks like this.
+Final project looks like this.the main idea of the project is order pizza (this could be another thing) and calculate the final price of your pizza.The price of the pizza is depented of your choses.
 
 ![Ekran görüntüsü 2025-01-17 114335](https://github.com/user-attachments/assets/0f523230-3083-427d-be0f-dd41b6fc315e)
 
